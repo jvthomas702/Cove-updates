@@ -4,13 +4,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Cove</title>
         <item>
-            <title>1.3.0</title>
-            <pubDate>Thu, 15 Oct 2026 15:41:54 -0400</pubDate>
+            <title>1.3.1</title>
+            <pubDate>Thu, 15 Oct 2026 18:18:59 -0400</pubDate>
             <link>https://github.com/jvthomas702/Cove-updates</link>
-            <sparkle:version>130</sparkle:version>
-            <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+            <sparkle:version>131</sparkle:version>
+            <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Cove 1.3.0
+            <description sparkle:format="markdown"><![CDATA[# Cove 1.3.1
+
+- Optional notification-mirroring setup stays quiet and dismisses itself, instead of ringing and pinning a Needs you alert.
+
+- Standard text shortcuts, including Command-A, Copy, Cut, Paste and Undo, work inside the floating notch composer.
+- Temporary chat-catalog file errors clear after a successful refresh and retain your destination and draft.
 
 - Send prompts to existing local Codex chats from the AI tab. Choose Existing chat, select the destination, type, and Send. A working chat receives a follow-up; an idle open chat starts its next turn. Open chat brings the selected conversation forward if it needs to reconnect.
 - Existing chat and New task keep separate drafts. Switching tabs preserves your text and destination. An unavailable destination never silently changes to another chat.
@@ -21,10 +26,10 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 
 Existing chat messaging supports local Codex chats. ChatGPT conversations, remote chats, and existing Claude Code sessions are not included in this picker. New task still launches Codex or Claude Code in Terminal.
 ]]></description>
-            <enclosure url="https://github.com/jvthomas702/Cove-updates/releases/download/v1.3.0/Cove.zip" length="15055847" type="application/octet-stream" sparkle:edSignature="E9z//NIchLTUsH5AzZKDdgdxri4dI0LT5JJ8fJTzVW/IqvBLe6OeTarVtAq+9Bp/JvCO5Aen6awMURaY+Y2vDA=="></enclosure>
+            <enclosure url="https://github.com/jvthomas702/Cove-updates/releases/download/v1.3.1/Cove.zip" length="15057687" type="application/octet-stream" sparkle:edSignature="5FhVg6T8BeKpkrG1T0nw924rn6uDqmezgbCrWYg8JI/7K00Ozway2etZlRxIgSj4zeQQJWh0Ybdr0/xMu5e5Ag=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: pLprBk7lGcOzw+G16NVNnhzUCMG/ksM6KUdJniRgh1GdpX0uOgu6rUc4/wevmo36Z3s81QRIvikDIjVDftz8Bg==
-length: 2469
+edSignature: mRSBGXJAW68UsSuX7PwZu5uyU3oFKW33blEvIORhpZCygtagviGCTF6Ar1AxEOSKLom7wJwID8DjeYb9U4glBg==
+length: 2820
 -->
