@@ -4,27 +4,26 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Cove</title>
         <item>
-            <title>1.4.0</title>
-            <pubDate>Fri, 16 Oct 2026 22:40:40 -0400</pubDate>
+            <title>1.5.0</title>
+            <pubDate>Sat, 17 Oct 2026 00:31:10 -0400</pubDate>
             <link>https://github.com/jvthomas702/Cove-updates</link>
-            <sparkle:version>140</sparkle:version>
-            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+            <sparkle:version>150</sparkle:version>
+            <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Cove 1.4.0
+            <description sparkle:format="markdown"><![CDATA[# Cove 1.5.0
 
-- Combines the black sports and chat workspace with the latest updates from main.
-- Nori, the black companion with glowing eyes, has springier expressions and motion. List avatars stay still and Reduce Motion is respected.
-- Adds keyboard shortcuts, optional clipboard history, Bluetooth battery display, GitHub Actions activity, Claude token usage, and Claude cloud pull-request activity.
-- Keeps full sports Gamecast, favorites, offline logos, screenshot editing and persistent shelf undo.
-- Keeps existing local Codex chat prompts, exact chat targeting, retained drafts and accurate approval/input attention alerts.
-- New-release notices open Settings → About for signed in-app updates instead of asking you to download another copy.
+- A smaller black island with two Home tiles, icon tabs, simpler controls, tinted pill buttons and prominent Start and Send buttons.
+- Show a followed game’s score alongside playing music in the compact island.
+- Finished games drop out of the followed strip and compact notch; one-off watched games are cleared when they end.
+- Nori has richer expressions: thinking glances, springier landings and spins, attention pings, sighs and occasional sleepy peeks. Static list avatars and Reduce Motion remain supported.
+- Retains sports Gamecast, favorites, screenshot editing and undo, existing local Codex chat prompts, attention fixes, optional device and cloud activity, and signed in-app updates.
 
-Existing chat messaging supports local Codex chats. Claude cloud activity appears when a cloud session opens a GitHub pull request; it is a status view, not a cloud chat composer. Optional clipboard, CI and Bluetooth features can be enabled in Settings.
+Update through Settings → About → Check for Updates. Your existing Cove installation updates in place.
 ]]></description>
-            <enclosure url="https://github.com/jvthomas702/Cove-updates/releases/download/v1.4.0/Cove.zip" length="15336970" type="application/octet-stream" sparkle:edSignature="BwriPu4RCohQrsO+KH5xbXNt1hyzZkV3sMm8uzI51y/yCFW/B4q872GTeylrRaX/WXAT+K0LF54ntrsUpnlfDw=="></enclosure>
+            <enclosure url="https://github.com/jvthomas702/Cove-updates/releases/download/v1.5.0/Cove.zip" length="15330063" type="application/octet-stream" sparkle:edSignature="rmSqE1+8AvH+pv3iK6tYxL1rgx0WbGiACTymDFH75yRdvBO1gFgdSfSuG7z6GkvTAFo6QP/vKZUtGdcX2iojCA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: W/X4xvgRLZ+XijTaW1cOd0os3cR0IYL6AvkSuXx3wtfKDLnHrikD0w9WtpM+TGPSZXkJ39+d74ZIobIjzTJ2Dw==
-length: 2192
+edSignature: eJqwI9Z6mU632b5L9UcWdDO7AejHspKf+YaydALIOHxZ/YSwyk/RUmOvdcYI4cYUA8LwiEFBttk1tEiYFgcpDA==
+length: 2004
 -->
